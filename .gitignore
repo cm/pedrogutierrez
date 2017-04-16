@@ -2,7 +2,6 @@ ui/node_modules
 ui/elm-stuff
 ui/yarn.lock
 ### Haskell ###
-log
 dist
 cabal-dev
 *.o
