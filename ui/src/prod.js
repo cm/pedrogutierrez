@@ -1,3 +1,3 @@
 require( "./common" )({
-  api: "https://pedrogutierrez.me/api",
+  api: "http://pedrogutierrez.me/api",
 });
